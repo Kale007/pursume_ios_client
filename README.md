@@ -1,2 +1,2 @@
-# pursume_ios_client
-test
+# pursume ios client
+[Landing Page](http://pursume-app.herokuapp.com/)
